@@ -1,0 +1,11 @@
+Model Information:
+* title:	Capsule
+* source:	https://sketchfab.com/3d-models/capsule-4e19ce19e0794a86b66b033f2854a7c9
+* author:	El3cT (https://sketchfab.com/El3cT)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Capsule" (https://sketchfab.com/3d-models/capsule-4e19ce19e0794a86b66b033f2854a7c9) by El3cT (https://sketchfab.com/El3cT) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
