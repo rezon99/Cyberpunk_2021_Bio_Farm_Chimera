@@ -13,4 +13,4 @@ In https://builder.decentraland.org/scene-editor/6dc6e3db-387b-4b6e-843e-fa69044
 Todo тест (I):
 
 * Был кейс где на одной из локации активировался аватар кастомный (доги по умолчанию). (I) смарт объект для юзера чтобы, он мог активировать аватара на своей локе.
-* вокстары https://market.decentraland.org/contracts/0xe9e86941b23fbe9d8f4dd0c5b7e5f89722936878/items/0
++ https://voxters.com/integrate/ вокстары https://market.decentraland.org/contracts/0xe9e86941b23fbe9d8f4dd0c5b7e5f89722936878/items/0
